@@ -303,7 +303,7 @@
 )]
 
 #[doc(hidden)]
-pub use typetag_impl::*;
+pub use typetag_macro::*;
 
 // Not public API. Used by generated code.
 #[doc(hidden)]
