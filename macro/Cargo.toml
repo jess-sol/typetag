@@ -14,7 +14,7 @@ proc-macro = true
 
 [dependencies]
 proc-macro2 = "1.0"
-typetag-impl = { version = "=0.2.1", path = "../impl" }
+typetag-impl = { path = "../impl" }
 
 
 [package.metadata.docs.rs]
